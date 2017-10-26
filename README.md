@@ -20,7 +20,7 @@ Rear Camera  | 13.0 MP, LED flash
 Front Camera | 5.0 MP
 Release Date | January 2016
 
-TWRP    | new   
+TWRP new   | new   
 -------:|:-------------------------
 ADB backups | enabled
 
