@@ -20,8 +20,8 @@ Rear Camera  | 13.0 MP, LED flash
 Front Camera | 5.0 MP
 Release Date | January 2016
 
-TWRP new   | new   
--------:|:-------------------------
+TWRP new    | new   
+-----------:|:---------------------
 ADB backups | enabled
 
 ![Xiaomi Redmi 3](http://cdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-redmi-3-0.jpg "Xiaomi Redmi 3")
