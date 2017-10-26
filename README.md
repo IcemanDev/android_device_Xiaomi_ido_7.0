@@ -19,7 +19,8 @@ Display | 720 x 1280 pixels, 5.0" IPS
 Rear Camera  | 13.0 MP, LED flash
 Front Camera | 5.0 MP
 Release Date | January 2016
-TWRP    | Spec new
+
+TWRP spec new
 -------:|:-------------------------
 ADB backups | enabled
 
